@@ -4,7 +4,7 @@ FOR EVERY DISPUTE, THERE’S A CURE
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Legal Hospital – Mohd Meraj</title>
+<title>Legal Hospital – Mohd Meraj Khan</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 
 <style>
@@ -219,7 +219,7 @@ FOR EVERY DISPUTE, THERE’S A CURE
       </div>
       <div class="logo-text">
         <div class="logo-main">Legal Hospital</div>
-        <div class="logo-sub"> Mohd Meraj </div>
+        <div class="logo-sub"> Mohd Meraj Khan </div>
       </div>
     </div>
   </div>
