@@ -219,7 +219,7 @@ FOR EVERY DISPUTE, THERE’S A CURE
       </div>
       <div class="logo-text">
         <div class="logo-main">Legal Hospital</div>
-        <div class="logo-sub">Adv. Mohd Meraj ·</div>
+        <div class="logo-sub"> Mohd Meraj </div>
       </div>
     </div>
   </div>
