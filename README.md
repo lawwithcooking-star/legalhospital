@@ -1,10 +1,10 @@
 # LEGAL HOSPITAL
-Official website files for Legal Hospital 
+FOR EVERY DISPUTE, THERE’S A CURE
 
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Legal Hospital – Adv. Mohd Meraj</title>
+<title>Legal Hospital – by Mohd Meraj</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 
 <style>
@@ -242,7 +242,7 @@ Official website files for Legal Hospital
 <section id="about" class="section">
     <h2>About Me</h2>
     <p>
-        I am <b>Advocate Mohd Meraj</b>, practicing in <b>Lucknow</b>, providing professional 
+        I am <b> Mohd Meraj</b>, practicing in <b>Lucknow</b>, providing professional 
         legal solutions across civil, criminal, and arbitration matters.  
         With dedication, accuracy, and commitment to justice, I aim to deliver 
         reliable legal care — just like a hospital heals patients.
@@ -284,10 +284,12 @@ Official website files for Legal Hospital
 <section id="contact" class="section">
     <h2>Contact</h2>
     <div class="contact-box">
-        <p><b>Name:</b> Adv. Mohd Meraj</p>
+        <p><b>Name:</b>  Mohd Meraj</p>
         <p><b>Phone:</b> <a href="tel:6386420246">6386420246</a></p>
         <p><b>Location:</b> Lucknow, Uttar Pradesh</p>
-        <p><b>Email:</b> legalhospital@gmail.com</p>
+        <p><b>Email:</b> 
+            mohdmerajkhanalig@gmail.com</p> 
+            legalhospital@gmail.com</p>
     </div>
 
     <div class="social-links">
@@ -302,4 +304,3 @@ Official website files for Legal Hospital
 </footer>
 
 </body>
-</html>
