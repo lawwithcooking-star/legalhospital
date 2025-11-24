@@ -219,7 +219,7 @@ FOR EVERY DISPUTE, THERE’S A CURE
       </div>
       <div class="logo-text">
         <div class="logo-main">Legal Hospital</div>
-        <div class="logo-sub"> Diagnosing disputes Prescribing justice </div>
+        <div class="logo-sub"> Diagnosing Disputes Prescribing Justice </div>
       </div>
     </div>
   </div>
