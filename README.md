@@ -4,7 +4,7 @@ FOR EVERY DISPUTE, THERE’S A CURE
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Legal Hospital – by Mohd Meraj</title>
+<title>Legal Hospital – Mohd Meraj</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 
 <style>
